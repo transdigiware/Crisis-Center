@@ -1,8 +1,7 @@
 # Crisis-Center
 Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way. By opening a page that can be accessed globally.
 ## Media Info
-Media Info adalah Pusat Media 
-Adalah sebuah alamat web berbasis domain untuk media info yang dapat di akses dalam menggali seluruh data yang valid dalam keadaan darurat di saat tanggap bencana terjadi.
+Media Info is a Media Center Is a domain-based web address for media info that can be accessed across all valid data in an emergency when a disaster response occurs.
 Created for toolchain: https://cloud.ibm.com/devops/toolchains/202bc213-7a11-41dd-b8e3-d5e2c1a72d3f?env_id=ibm%3Ayp%3Ajp-tok
 For Disaster Management Tools, Apps and more power full technologi.
 ## Climate Change
