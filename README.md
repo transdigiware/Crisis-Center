@@ -1,6 +1,5 @@
 # Crisis-Center
-Mencakup proyek dalam menangani bencana sedemikian hingga, sehingga dharapkan proses manajemen bencana dapat tertata dengan cara maksimal.
-Dengan membuka halaman yang dapat di akses secara global.
+Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way. By opening a page that can be accessed globally.
 ## Media Info
 Media Info adalah Pusat Media 
 Adalah sebuah alamat web berbasis domain untuk media info yang dapat di akses dalam menggali seluruh data yang valid dalam keadaan darurat di saat tanggap bencana terjadi.
