@@ -1,6 +1,5 @@
 # Crisis-Center
-Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way.platform chatbot sending messages can help convey information quickly and precisely. This can save people time compared to waiting to be downtown, and freeing customers at the center to focus on higher level issues and By opening a page that can be accessed globally, like as in general custom example [code](https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020
-), etc.
+Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way.platform chatbot sending messages can help convey information quickly and precisely. This can save people time compared to waiting to be downtown, and freeing customers at the center to focus on higher level issues and By opening a page that can be accessed globally, like as in general custom example [code](https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020), etc.
 https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020
 ## Media Info
 Media Info is built as a source of information about Media that contains public domain-based web addresses that can be accessed based on Big  data that can be used in an emergency, we package the making in [toolchain](https://cloud.ibm.com/devops/toolchains/202bc213-7a11-41dd-b8e3-d5e2c1a72d3f?env_id=ibm%3Ayp%3Ajp-tok)
