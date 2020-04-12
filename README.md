@@ -10,7 +10,7 @@ The goal is to provide a mobile application, along with server-side components, 
 were being to terintegrasi Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way.platform chatbot sending messages can help convey information quickly and precisely. This can save people time compared to waiting to be downtown, and freeing customers at the center to focus on higher level issues and By opening a page that can be accessed globally, like as in general custom example [code](https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020).
 
 ## Media Info 
-Media Info is built as a source of information about Media that contains public domain-based web addresses that can be accessed based on Big  data that can be used in an emergency, we package the making in
+This Project Media Info is built as a source of information about Media that contains public domain-based web addresses that can be accessed based on Big  data that can be used in an emergency, we package the making in
 For Cricis Center Disaster Management Tools, Apps and more power full technologi.
 In the crisis, we have already seen shortages of local food, medical equipment, and other supplies. In addition, the recommended (or required) self-isolation and social distancing measures can compound the problem by preventing people from easily getting to locations with the best stocks of supplies. Media Info is a solution that empowers communities to easily connect and provide this information to each other.Berikut adalah kode contoh dari Starter Kit [Solution-Starter-Kit-Cooperation-2020](https://github.com/transdigiware/Solution-Starter-Kit-Cooperation-2020)
 
