@@ -3,7 +3,7 @@
 ### The idea
 The goal is to provide a mobile application, along with server-side components, that serves as the basis for developers to build out a community cooperation application that addresses local needs for food, equipment, and resources. It would allow both "Suppliers" (such as a store or a community member who has produce they can sell or distribute) to make people aware of what the have; and consumers ("Recipients") to locate where these supplies are, and, if necessary, guide them to the appropriate locations to pick them up.The previous year we called our Application with [Dispots](https://transdigiware.github.io/Dispots/)
 ## Communication
-[Communication] (https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/56f076e2-31ba-485c-a5a9-ab4c29e5a41a}
+[Communication] (https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/56f076e2-31ba-485c-a5a9-ab4c29e5a41a)
 yang terintegrasi Includes the entire project in handling disasters so that it is hoped that the disaster management process can be arranged in a maximum way.platform chatbot sending messages can help convey information quickly and precisely. This can save people time compared to waiting to be downtown, and freeing customers at the center to focus on higher level issues and By opening a page that can be accessed globally, like as in general custom example [code](https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020).
 ## Media Info 
 Media Info is built as a source of information about Media that contains public domain-based web addresses that can be accessed based on Big  data that can be used in an emergency, we package the making in
