@@ -16,3 +16,6 @@ In the crisis, we have already seen shortages of local food, medical equipment, 
 
 ## Climate Change
 What is happening right now in the process of the earth's rotation and its material matter, the negative excess caused is climate change colored with various kinds of impacts. Certainly at this time we are busy with the material of the nCovid-19 plague disaster whose distribution knows no bounds, so we have to limit it with a technology that is able to answer all cases that occur. In this case we try to develop the project long before all of that happens which can be noticed in [Repositories Dispots](https://github.com/transdigiware/Dispots)
+
+## License
+This solution starter is made available under the [Apache 2 License](LICENSE).
