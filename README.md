@@ -3,7 +3,7 @@
  We package it in our project to dare for accept the challenge the Call For Code 2020 by building it using IBM technology by making [toolchain](https://cloud.ibm.com/devops/toolchains/202bc213-7a11-41dd-b8e3-d5e2c1a72d3f?env_id=ibm%3Ayp%3Ajp-tok) and Trying to create an [Integrated Chatbot Communication Project](https://integrations.us-south.assistant.watson.cloud.ibm.com/web/public/56f076e2-31ba-485c-a5a9-ab4c29e5a41a)  that can be useful in solving crises and other issues for the future.
  
 ## Starter Kit 
-Learn more about this project from source of Materials for the Call for Code 2020 solution starter kit for crisis communication in the context of COVID-19 [starter-Kit.]( https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020?organization=transdigiware&organization=transdigiware)
+Learn more about this project from source of Materials for the Call for Code 2020 solution starter kit for crisis communication in the context of COVID-19 [Starter-Kit.]( https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020?organization=transdigiware&organization=transdigiware)
 ## The idea
 The goal is to provide a mobile application, along with server-side components, that serves as the basis for developers to build out a community cooperation application that addresses local needs for food, equipment, and resources. It would allow both "Suppliers" (such as a store or a community member who has produce they can sell or distribute) to make people aware of what the have; and consumers ("Recipients") to locate where these supplies are, and, if necessary, guide them to the appropriate locations to pick them up.The previous year we called our Application with [Dispots](https://transdigiware.github.io/Dispots/)
 
