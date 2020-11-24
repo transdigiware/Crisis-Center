@@ -5,6 +5,7 @@
 ## Starter Kit 
 Learn more about this project from source of Materials for the Call for Code 2020 solution starter kit for crisis communication in the context of COVID-19 [Starter-Kit.]( https://github.com/transdigiware/Solution-Starter-Kit-Communication-2020?organization=transdigiware&organization=transdigiware)
 ## The idea
+Awalnya saya menanyakan tentang ide tersebut ke [forum dan jaringan cendikia lainnya] (https://github.community/t/crisis-center-dalam-bencana/15774?u=transdigiware)
 The goal is to provide a mobile application, along with server-side components, that serves as the basis for developers to build out a community cooperation application that addresses local needs for food, equipment, and resources. It would allow both "Suppliers" (such as a store or a community member who has produce they can sell or distribute) to make people aware of what the have; and consumers ("Recipients") to locate where these supplies are, and, if necessary, guide them to the appropriate locations to pick them up.The previous year we called our Application with [Dispots](https://transdigiware.github.io/Dispots/)
 
 ## Communication
